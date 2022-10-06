@@ -1,4 +1,12 @@
-### Hi there 👋
+# Nice to see you back... <img src=load.gif width="30px" height="30px">
+
+### I'm Pedro and currently I'm Engineering student at Insper 👨‍💻💻
+
+<div align="center">
+  <a href="https://github.com/DeLucca990">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeLucca990&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeLucca990&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <!--
 **DeLucca990/DeLucca990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
