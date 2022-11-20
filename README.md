@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/DeLucca990">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=DeLucca990&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="max-width: 100%";/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeLucca990&layout=compact&langs_count=7&theme=dark" style="max-width: 100%";/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DeLucca990&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="max-width: 100%";/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeLucca990&layout=compact&langs_count=7&theme=dark" style="max-width: 100%";/>
 </div>
 
 <div style="display: inline_block"><br>
