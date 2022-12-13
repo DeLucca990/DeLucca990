@@ -3,9 +3,8 @@
 ### I'm Pedro and currently I'm Engineering student at Insper 👨‍💻💻
 
 <div align="center">
-  <a href="https://github.com/DeLucca990">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DeLucca990&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="max-width: 100%";/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeLucca990&layout=compact&langs_count=7&theme=dark" style="max-width: 100%";/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DeLucca990&include_all_commits=true&count_private=true&show_icons=true&line_height=33&theme=dark" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeLucca990&layout=compact&hide=css,html&count_private=true&langs_count=8&theme=dark" alt="Most used Languages" height="200"/>
 </div>
 
 <div style="display: inline_block"><br>
