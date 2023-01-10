@@ -10,7 +10,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeLucca990&count_private=true&theme=dark"  height="175"/>
 </div>
 
-# Technologies and Tools I currently use 🤖
+# 🤖 Technologies and Tools I currently use 
 
 <div style="display: inline_block"><br>
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
