@@ -1,6 +1,6 @@
 # Nice to see you here... <img src=load.gif width="30px" height="30px">
 
-### I'm Pedro and currently I'm a Computer Engineer student at Insper 👨‍💻💻
+### I'm Pedro and currently I'm a Computer Engineering student at Insper 👨‍💻💻
 
 # &#x1f4c8; GitHub Stats
 
