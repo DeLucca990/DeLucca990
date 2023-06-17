@@ -5,7 +5,7 @@
 # &#x1f4c8; GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DeLucca990&include_all_commits=true&count_private=true&show_icons=true&line_height=33&theme=dark" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DeLucca990&include_all_commits=true&count_private=true&show_icons=true&line_height=33&theme=dark&rank_icon=github" height="200"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeLucca990&layout=compact&hide,html&count_private=true&langs_count=6&theme=dark" alt="Most used Languages" height="200"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeLucca990&count_private=true&theme=dark"  height="175"/>
 </div>
